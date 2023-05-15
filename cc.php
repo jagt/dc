@@ -141,7 +141,7 @@ Section Headers:
 </p> 
 
 
-<pre><b>$</b> // importExport.c
+<pre>// importExport.c
 
 extern const int myConstant;
 extern void foo(int x);
